@@ -16,9 +16,6 @@
 [![TODOs](https://badgen.net/https/api.tickgit.com/badgen/github.com/go-gitea/gitea)](https://www.tickgit.com/browse?repo=github.com/go-gitea/gitea)
 
 ## Deploy to Heroku  
-Official: https://heroku.com  
-Demo: https://herooneindex.herokuapp.com/  
-
 How to Install: Click the button [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/InfiniteYinux/gitea) to Deploy a new app, or create an app then deploy via connect to your github fork.  
 
 ## Purpose
